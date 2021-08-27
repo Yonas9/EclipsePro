@@ -6,7 +6,7 @@ public class AddingNum {
 		// TODO Auto-generated method stub
 		
 		int num1 = 3;
-		int num2 =4;
+		int num2 = 4;
 		System.out.println(num1 + num2);
 
 	}
